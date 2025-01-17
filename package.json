@@ -1,6 +1,6 @@
 {
-  "name": "portfolio-app",
-  "version": "0.1.0",
+  "name": "anees-portfolio",
+  "version": "0.0.1",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
@@ -55,5 +55,17 @@
   },
   "resolutions": {
     "react-error-overlay": "6.0.9"
-  }
+  },
+  "description": "nothing",
+  "main": "App.jsx",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anees004/Portflio.git"
+  },
+  "author": "anees",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anees004/Portflio/issues"
+  },
+  "homepage": "https://github.com/Anees004/Portflio#readme"
 }
