@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Anees Just want to publish portfolio
         </a>
       </header>
     </div>
